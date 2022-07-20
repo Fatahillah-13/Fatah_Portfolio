@@ -1,0 +1,7 @@
+body {
+  /* fallback for old browsers */
+  background: #a696b8;
+
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to right, rgb(173, 125, 225), rgba(173, 125, 225));
+}
